@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,18 +25,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Tai’an",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2023-11-02T06:44:17.801Z",
-      "notes": "",
-      "position": {
-        "lat": "35.9505699059789",
-        "lng": "116.558096408844"
-      },
-      "id": 98443200
-    },
-    {
       "cityName": "Zamtang",
       "country": "China",
       "emoji": "🇨🇳",
@@ -61,16 +37,28 @@
       "id": 98443201
     },
     {
-      "cityName": "Hami",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2023-11-02T06:54:45.008Z",
+      "cityName": "Peralta de Calasanz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-02T07:40:19.804Z",
       "notes": "",
       "position": {
-        "lat": "42.42345651793833",
-        "lng": "92.548828125"
+        "lat": "41.96765920367816",
+        "lng": "0.41748046875000006"
       },
-      "id": 98443204
+      "id": 98443206
+    },
+    {
+      "cityName": "Noyant-Villages",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-02T07:40:30.609Z",
+      "notes": "",
+      "position": {
+        "lat": "47.517200697839414",
+        "lng": "0.13183593750000003"
+      },
+      "id": 98443207
     }
   ]
 }
