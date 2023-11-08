@@ -1,64 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-11-08T04:23:47.708Z",
+      "notes": "stayed for 1 year! great place!",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "51.481382896100975",
+        "lng": "-0.10986328125000001"
       },
-      "id": 17806751
+      "id": 98443209
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Zamtang",
+      "cityName": "Shanghai",
       "country": "China",
       "emoji": "🇨🇳",
-      "date": "2023-11-02T06:44:17.801Z",
-      "notes": "",
+      "date": "2023-11-08T04:24:14.078Z",
+      "notes": "modern city",
       "position": {
-        "lat": "31.80289258670676",
-        "lng": "100.986328125"
+        "lat": "31.203404950917395",
+        "lng": "121.50878906250001"
       },
-      "id": 98443201
+      "id": 98443210
     },
     {
-      "cityName": "Peralta de Calasanz",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-11-02T07:40:19.804Z",
+      "cityName": "Sydney",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2023-11-08T04:25:41.593Z",
       "notes": "",
       "position": {
-        "lat": "41.96765920367816",
-        "lng": "0.41748046875000006"
+        "lat": "-33.867043",
+        "lng": "151.0715732"
       },
-      "id": 98443206
-    },
-    {
-      "cityName": "Noyant-Villages",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2023-11-02T07:40:30.609Z",
-      "notes": "",
-      "position": {
-        "lat": "47.517200697839414",
-        "lng": "0.13183593750000003"
-      },
-      "id": 98443207
+      "id": 98443211
     }
   ]
 }
