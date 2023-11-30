@@ -68,10 +68,10 @@ These core features are designed to enhance user engagement and streamline the i
 
 ## Screenshots
 
-![Homepage](<Screenshot 2023-11-08 at 3.22.47 pm.png>)
-![Login page](<Screenshot 2023-11-08 at 3.23.07 pm.png>)
-![City list](<Screenshot 2023-11-08 at 3.26.03 pm.png>)
-![City info](<Screenshot 2023-11-08 at 3.26.33 pm.png>)
+ <img src="public/Screenshot 2023-11-08 at 3.22.47 pm.png" alt="Homepage" style="text-align: center;" height="500"/>
+ <img src="public/Screenshot 2023-11-08 at 3.23.07 pm.png" alt="Login page" style="text-align: center;" height="500"/>
+ <img src="public/Screenshot 2023-11-08 at 3.26.03 pm.png" alt="City list" style="text-align: center;" height="500"/>
+ <img src="public/Screenshot 2023-11-08 at 3.26.33 pm.png" alt="City info" style="text-align: center;" height="500"/>
 
 ### How to run Source Code
 
